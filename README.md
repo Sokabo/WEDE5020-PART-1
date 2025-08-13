@@ -1,26 +1,46 @@
-# Sivu's Pawfect Retreat - Project Summary
+# Sivu's Pawfect Retreat  
+**Name:** Sivuyile Sokupa  
+**Student Number:** ST10490461 
 
-This project is a pet care website designed to be friendly, welcoming, and easy to use for both pet owners and their pets. Below is a summary of the main features and structure added to each HTML file:
+## Overview
+Sivu's Pawfect Retreat is a premium pet care website designed to provide pet owners with easy access to information about services, pricing, and contact details. The site is welcoming, user-friendly, and visually appealing, focusing on both pets and their owners.
 
-## index.html
-Created a colorful, inviting homepage with a navigation menu.
-Added a large welcoming heading and slogan.
-Included a section describing the premium services offered.
-Displayed customer testimonials in a visible, easy-to-read table.
-Used a background image and light blue color for a cheerful look.
-Ensured all text is readable over the background.
+## Goals
+Create a pet care website using only HTML (no CSS or JavaScript).
+Ensure the site is attractive, accessible, and easy to navigate.
+Present all services, testimonials, and contact information clearly.
+Use images and color to enhance the user experience.
 
-## Services.html
-Listed all premium pet services in separate, clearly labeled tables.
-Each service includes a description, benefits, and pricing.
-Used different background colors for each service section for clarity.
-Maintained a consistent, pet-friendly style throughout.
+## Features
+**Homepage:** Welcoming message, navigation menu, service highlights, and customer testimonials.
+**Services Page:** Detailed descriptions and pricing for all pet care services.
+**Navigation:** Consistent links on every page.
+**Visuals:** Background image and color for a cheerful, pet-friendly look.
+**Accessibility:** All text is readable and well-structured.
 
-## General
-All pages use only HTML (no CSS or JavaScript).
-Navigation links are provided on each page for easy access.
-Background images and colors are used to enhance visual appeal.
-All content is structured for maximum readability and user-friendliness.
+## Sitemap
+`index.html` – Homepage (welcome, services overview, testimonials)
+`Services.html` – Detailed services and pricing
+`AboutUs.html` – Information about the business/team
+`Contact.html` – Contact form and details
+`Enquiry.html` – Enquiry form
+  
+## Timeline
+**Week 1:** Project planning, requirements gathering, and initial design.
+**Week 2:** Created homepage and navigation structure.
+**Week 3:** Added services page and testimonials.
+**Week 4:** Finalized content, images, and ensured accessibility.
 
- filepath: c:\Users\sivso\OneDrive\Desktop\WEDE5020-ST10490461-PART1\README.md 
+## Part 1 Progress
+All required HTML pages created.
+Navigation and structure completed.
+Content for homepage and services page finalized.
+Background images and color schemes applied.
+Testimonials and pricing tables added.
+No CSS or JavaScript used, as per requirements.
 
+## Changelog
+**2025-08-13:** README.md updated with project summary, sitemap, and progress.
+**2025-08-12:** Added testimonials and improved homepage layout.
+**2025-08-11:** Completed Services.html with detailed service tables.
+**2025-08-10:** Initial project setup and
