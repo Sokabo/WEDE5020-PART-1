@@ -1,5 +1,5 @@
 # Sivu's Pawfect Retreat  
-**Name:** Sivuyile Sokupa  
+**Name:** Sivuyile Sokabo  
 **Student Number:** ST10490461  
 
 ## Overview
